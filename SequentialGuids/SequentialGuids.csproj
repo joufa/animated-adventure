@@ -8,6 +8,6 @@
     <Version>1.0.0</Version>
     <Authors>Joufa (areijone@gmail.com)</Authors>
 	<PackageDescription>This package provider a simple interface for creating regular and sequential GUIDs.</PackageDescription>
-	<RepositoryUrl>https://github.com/joufa</RepositoryUrl>
+	<RepositoryUrl>https://github.com/joufa/animated-adventure</RepositoryUrl>
   </PropertyGroup>
 </Project>
