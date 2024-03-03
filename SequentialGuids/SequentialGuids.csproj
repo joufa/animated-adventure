@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>SequentialGuids</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Joufa (areijone@gmail.com)</Authors>
+	<PackageDescription>This package provider a simple interface for creating regular and sequential GUIDs.</PackageDescription>
+	<RepositoryUrl>https://github.com/joufa</RepositoryUrl>
+  </PropertyGroup>
+</Project>
